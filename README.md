@@ -1,2 +1,1 @@
-# SE_lab3
-hello shaba bois played well!
+hello boys! this is lab-3 SE
